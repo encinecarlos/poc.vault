@@ -1,0 +1,6 @@
+@poc.vault_HostAddress = http://localhost:5278
+
+GET {{poc.vault_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
